@@ -19,3 +19,10 @@
 # OS
 .DS_Store
 Thumbs.db
+# Vivado project generated (project-name based)
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.runs/
+*.xpr
