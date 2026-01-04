@@ -1,0 +1,9 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+D:/Project_vivado/Hamming_encoder_decoder/Hamming_encoder_decoder.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+D:/Project_vivado/Hamming_encoder_decoder/Hamming_encoder_decoder.srcs/sim_1/new/tb_Hamming_top.v,1767513778,verilog,,,,tb_Hamming_top,,,,,,,,
+D:/Project_vivado/Hamming_encoder_decoder/Hamming_encoder_decoder.srcs/sources_1/new/Hamming_decoder.v,1767508581,verilog,,D:/Project_vivado/Hamming_encoder_decoder/Hamming_encoder_decoder.srcs/sources_1/new/Hamming_encoder.v,,Hamming_decoder,,,,,,,,
+D:/Project_vivado/Hamming_encoder_decoder/Hamming_encoder_decoder.srcs/sources_1/new/Hamming_encoder.v,1767505961,verilog,,D:/Project_vivado/Hamming_encoder_decoder/Hamming_encoder_decoder.srcs/sources_1/new/Hamming_top.v,,Hamming_encoder,,,,,,,,
+D:/Project_vivado/Hamming_encoder_decoder/Hamming_encoder_decoder.srcs/sources_1/new/Hamming_top.v,1767509552,verilog,,D:/Project_vivado/Hamming_encoder_decoder/Hamming_encoder_decoder.srcs/sim_1/new/tb_Hamming_top.v,,Hamming_top,,,,,,,,
